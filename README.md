@@ -2,12 +2,12 @@
 A curated collection of professional AI prompts for data analytics, productivity, career development, automation, and continuous learning.
 #**Jose Mendez Prompt Library**
 
-##**Objetivo**
+##** Objetivo**
  *Construir una biblioteca profesional de prompts para Inteligencia Artificial, Data Analytics y productividad.*
 
 ---
 
-##**categorias**
+##** categorias**
 
 - IA
 - Python
@@ -19,7 +19,7 @@ A curated collection of professional AI prompts for data analytics, productivity
 
 ---
 
-##**Estado del proyecto**
+##** Estado del proyecto**
 
 
 - [x] Repositorio creado
