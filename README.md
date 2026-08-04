@@ -1,5 +1,7 @@
-# ***jose-mendez-prompt-library***
+# Jose-Mendez-Prompt-Library
+
 *A curated collection of professional AI prompts for data analytics, productivity, career development, automation, and continuous learning.*
+
 # **Jose Mendez Prompt Library**
 
 ## Índice
