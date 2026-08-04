@@ -1,4 +1,4 @@
-# jose-mendez-prompt-library
+# ```python jose-mendez-prompt-library```
 A curated collection of professional AI prompts for data analytics, productivity, career development, automation, and continuous learning.
 # **Jose Mendez Prompt Library**
 
@@ -30,5 +30,17 @@ A curated collection of professional AI prompts for data analytics, productivity
 ---
 
 > "No colecciono certificados. Construyo habilidades."
+
+## **Tecnologías que aprenderé**
+
+| Tecnología | Estado |
+|------------|--------|
+| Markdown | ✅ Aprendiendo |
+| GitHub | ✅ Aprendiendo |
+| Python | ⏳ Próximamente |
+| SQL | ⏳ Próximamente |
+| Excel | ⏳ Próximamente |
+| Power BI | ⏳ Próximamente |
+| Inteligencia Artificial | ✅ En progreso |
 
 
