@@ -60,6 +60,7 @@
 
 [mi LinkedIn] (https://www.linkedin.com/home?originalSubdomain=co)
 
+- *Próximamente portafolio web*
 ---
 
 > "No colecciono certificados. Construyo habilidades."
