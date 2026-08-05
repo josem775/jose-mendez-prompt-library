@@ -54,4 +54,8 @@
 | Power BI | ⏳ Próximamente |
 | Inteligencia Artificial | ✅ En progreso |
 
+---
+
+[mi LinkedIn] (https://www.linkedin.com/home?originalSubdomain=co)
+
 
