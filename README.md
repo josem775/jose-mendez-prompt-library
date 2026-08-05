@@ -40,8 +40,6 @@
 
 ---
 
-> "No colecciono certificados. Construyo habilidades."
-
 ## **Tecnologías que aprenderé**
 
 | Tecnología | Estado |
@@ -57,5 +55,9 @@
 ---
 
 [mi LinkedIn] (https://www.linkedin.com/home?originalSubdomain=co)
+
+---
+
+> "No colecciono certificados. Construyo habilidades."
 
 
