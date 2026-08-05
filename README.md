@@ -1,4 +1,6 @@
-# Jose-Mendez-Prompt-Library
+# Jose Mendez Prompt Library
+
+![Foto de José](file_00000000bc88820e957544ad8566f918.png)
 
 *A curated collection of professional AI prompts for data analytics, productivity, career development, automation, and continuous learning.*
 
