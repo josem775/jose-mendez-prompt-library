@@ -53,6 +53,10 @@
 | Inteligencia Artificial | ✅ En progreso |
 
 ---
+ ## **Mis perfiles**
+
+-[mi GitHub] 
+(https://github.com/josem775)
 
 [mi LinkedIn] (https://www.linkedin.com/home?originalSubdomain=co)
 
