@@ -57,7 +57,7 @@
 
 -[mi GitHub] (https://github.com/josem775)
 
-[mi LinkedIn] (https://www.linkedin.com/home?originalSubdomain=co)
+[mi LinkedIn] (https://www.linkedin.com/in/josé-méndez-7a6592298)
 
 - *Próximamente portafolio web*
 ---
